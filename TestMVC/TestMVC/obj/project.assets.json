@@ -9158,11 +9158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johnny\\source\\repos\\TestMVC\\TestMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Johnny\\Documents\\GitHub\\FirstResumePage\\TestMVC\\TestMVC\\TestMVC.csproj",
       "projectName": "TestMVC",
-      "projectPath": "C:\\Users\\Johnny\\source\\repos\\TestMVC\\TestMVC.csproj",
+      "projectPath": "C:\\Users\\Johnny\\Documents\\GitHub\\FirstResumePage\\TestMVC\\TestMVC\\TestMVC.csproj",
       "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johnny\\source\\repos\\TestMVC\\obj\\",
+      "outputPath": "C:\\Users\\Johnny\\Documents\\GitHub\\FirstResumePage\\TestMVC\\TestMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "R:\\Microsoft\\Xamarin\\NuGet\\",
